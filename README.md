@@ -7,7 +7,7 @@ To add your project please edit this README.md file, fill out all fields, add a 
 
 Projects should use the ChainSafe Gaming SDK and have a working game/app that anyone can play or use.
 
-# TEMPLATE:
+## Template:
 
 - title: [Title]
 - website: [URL]
@@ -15,7 +15,7 @@ Projects should use the ChainSafe Gaming SDK and have a working game/app that an
 - description: [description in 280 characters or less]
 - discord: [Discord username for contact on the ChainSafe Discord server]
 
-# PROJECTS
+# Projects
 
 - title: Rawrshak
 - website: https://www.rawrshak.io/
