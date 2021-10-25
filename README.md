@@ -7,7 +7,7 @@ To add your project please edit this README.md file, fill out all fields, add a 
 
 Projects should use the ChainSafe Gaming SDK and have a working game/app that anyone can play or use.
 
-## Template:
+### Template:
 
 - title: [Title]
 - website: [URL]
